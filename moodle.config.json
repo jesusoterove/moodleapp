@@ -1,8 +1,8 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "com.comunidadmoodle.moodlemobile",
+    "appname": "Comunidad Moodle",
     "versioncode": 43001,
-    "versionname": "4.3.0",
+    "versionname": "4.3.1",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -68,18 +68,8 @@
         "zh-tw": "正體中文"
     },
     "wsservice": "moodle_mobile_app",
-    "demo_sites": {
-        "student": {
-            "url": "https://school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https://school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    "demo_sites": "",
+    "siteurl": "https://comunidadmoodle.com",
     "defaultZoomLevel": "none",
     "zoomlevels": {
         "none": 100,
@@ -100,8 +90,8 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodle.moodlemobile",
-        "ios": "id633359593"
+        "android": "com.comunidadmoodle.moodlemobile",
+        "ios": "id63335959355"
     },
     "wsrequestqueuelimit": 10,
     "wsrequestqueuedelay": 100,
